@@ -33,9 +33,5 @@
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri1992ana&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br"
-  />
-</p>.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri1992ana&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br"/>
 </p>
